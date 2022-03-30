@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir tmp
-[A[C[C[C[C[C[C[C[C[C[C[my_first_directory mkdir tmp
+mkdir my_first_directory mkdir tmp
