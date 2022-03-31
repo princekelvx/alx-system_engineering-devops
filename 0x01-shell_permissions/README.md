@@ -11,3 +11,4 @@
 13-change_group - changes group of file hello to "school"
 changes owner to "vincent" and group owner to "staff"
 101-symbolic_link_permissions - changes owner and group owner of file  "_hello" to "vincent" and "staff" respectively
+102-if_only - changes owner of file "hello" to "betty" only if the current owner is "guillaume"
