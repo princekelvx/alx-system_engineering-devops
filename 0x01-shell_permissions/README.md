@@ -3,3 +3,4 @@
 5-execute - makes file "hello" executable
 6-multiple_permissions - adds multiple permissions to file hello"
 7-everybody - adds executable permissions for everybody
+8-James_Bond - sets certain permissions to the file "hello"
