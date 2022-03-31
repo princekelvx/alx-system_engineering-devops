@@ -5,3 +5,4 @@
 7-everybody - adds executable permissions for everybody
 8-James_Bond - sets certain permissions to the file "hello"
 9-John_Doe - sets mode to file "hello"
+10-mirror_permissions - sets permissions for the file "hello" similar to the file "olleh"
